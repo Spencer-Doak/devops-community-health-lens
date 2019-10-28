@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Determine health of Ansible community based on usage of dependencies.
 
 The hypothesis which inspired this module is that the health of an automation
