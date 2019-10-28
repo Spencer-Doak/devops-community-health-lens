@@ -1,0 +1,2 @@
+# Set of optional requirements that are not essential for running the app.
+regex>=2019.01.23

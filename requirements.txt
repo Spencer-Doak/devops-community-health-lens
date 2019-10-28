@@ -1,0 +1,3 @@
+# Hard requirements that must be present for this application.
+# Please refer to optional-requirements.txt for optional libraries.
+requests>=2.0.0
