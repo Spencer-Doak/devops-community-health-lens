@@ -14,17 +14,17 @@ incorporate others' work into their own work, or find that the quality of work
 by others in the community is inferior/unfit for use in their own work.
 """
 
-import requests
-import os
 import contextlib
-import shutil
-import tempfile
 import logging
-import tarfile
-import textwrap
-import pprint
-
 import multiprocessing
+import os
+import pprint
+import shutil
+import tarfile
+import tempfile
+import textwrap
+
+import requests
 
 try:
     import regex as re
